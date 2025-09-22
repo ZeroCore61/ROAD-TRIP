@@ -12,4 +12,7 @@ Hello, my name is Ibran.
 This game was created by Ben (my friend).
 There are three people who made this: Ibran (me), Ifat (my friend), And Ben (my friend).
 Would you like to help me? :(
+
 Thank you :)
+
+Aku recomendasi pakai 7-zip / I recommend using 7-zip
