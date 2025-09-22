@@ -16,3 +16,6 @@ Would you like to help me? :(
 Thank you :)
 
 Aku recomendasi pakai 7-zip / I recommend using 7-zip
+password:RDTP
+
+
